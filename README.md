@@ -1,6 +1,6 @@
 ###  Olá, eu sou a Ludmylla, amo estudar sobre programação e desenvolver aplicações 👋
 
-- 🔭 Desenvolvo aplicações Rest com a linguagem de programação Java e framework Spring
+- 🔭 Desenvolvo aplicações Rest com a linguagem de programação Java e Spring framework
 - 📖 Estudando testes unitários
 - 😄 Pronouns: ela/dela
 
