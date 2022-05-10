@@ -2,7 +2,7 @@
 
 - 🔭 Atuando com desenvolvimento de aplicações Rest com Java e Spring framework
 - 📖 Estudando testes unitários
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 
 <div align="center">
